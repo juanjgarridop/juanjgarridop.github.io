@@ -1,31 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
-    <link>https://juanjgarridop.github.io/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <title>Authors on Juan José Garrido</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <copyright>2019</copyright>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://juanjgarridop.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>admin</title>
-      <link>https://juanjgarridop.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 -0400</pubDate>
+      <title></title>
+      <link>/authors/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juanjgarridop.github.io/authors/admin/</guid>
+      <guid>/authors/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://juanjgarridop.github.io/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>Juan Garrido</title>
+      <link>/authors/juan-garrido/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juanjgarridop.github.io/authors/robert-ford/</guid>
+      <guid>/authors/juan-garrido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gilda Socarras</title>
+      <link>/authors/gilda-socarras/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gilda-socarras/</guid>
       <description></description>
     </item>
     
