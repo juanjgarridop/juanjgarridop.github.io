@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Juan José Garrido</title>
+    <title>Juan José Garrido</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Juan José Garrido</description>
+    <description>Recent content on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
@@ -13,21 +13,21 @@
     
     
     <item>
-      <title></title>
-      <link>/tags/</link>
+      <title>Aural Comprehension of Cognates:The role of phonological factors</title>
+      <link>/project/cognates/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/</guid>
-      <description></description>
+      <guid>/project/cognates/</guid>
+      <description>Aural Comprehension of Cognates:The role of phonological factors</description>
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 -0400</pubDate>
+      <title>Predictive Processing of Gender Agreement</title>
+      <link>/project/predictive-processing-of-gender/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/source-themes/</guid>
-      <description></description>
+      <guid>/project/predictive-processing-of-gender/</guid>
+      <description>Predictive Processing of Gender Agreement</description>
     </item>
     
   </channel>

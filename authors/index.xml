@@ -13,15 +13,6 @@
     
     
     <item>
-      <title></title>
-      <link>/authors/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Juan Garrido</title>
       <link>/authors/juan-garrido/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
@@ -31,20 +22,101 @@
     </item>
     
     <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gilda Socarras</title>
       <link>/authors/gilda-socarras/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/gilda-socarras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casillas, J.</title>
+      <link>/authors/casillas-j./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/casillas-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Durand López, E.M.</title>
+      <link>/authors/durand-l%C3%B3pez-e.m./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/durand-l%C3%B3pez-e.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernández Arroyo, L.</title>
+      <link>/authors/fern%C3%A1ndez-arroyo-l./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/fern%C3%A1ndez-arroyo-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garrido Pozú, J.</title>
+      <link>/authors/garrido-poz%C3%BA-j./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/garrido-poz%C3%BA-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lozano-Argüelles, C.</title>
+      <link>/authors/lozano-arg%C3%BCelles-c./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/lozano-arg%C3%BCelles-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markovits Rojas, J.</title>
+      <link>/authors/markovits-rojas-j./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/markovits-rojas-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rocafiguera, N.</title>
+      <link>/authors/rocafiguera-n./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/rocafiguera-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodríguez, N.</title>
+      <link>/authors/rodr%C3%ADguez-n./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/rodr%C3%ADguez-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varela, J.</title>
+      <link>/authors/varela-j./</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>/authors/varela-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
