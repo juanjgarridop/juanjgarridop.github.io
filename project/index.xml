@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Juan José Garrido</title>
-    <link>/project/</link>
+    <link>https://juanjgarridop.github.io/project/</link>
     <description>Recent content in Projects on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2019</copyright>
+    <copyright>2021</copyright>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://juanjgarridop.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aural Comprehension of Cognates:The role of phonological factors</title>
-      <link>/project/cognates/</link>
+      <link>https://juanjgarridop.github.io/project/cognates/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/cognates/</guid>
+      <guid>https://juanjgarridop.github.io/project/cognates/</guid>
       <description>Aural Comprehension of Cognates:The role of phonological factors</description>
     </item>
     
     <item>
       <title>Predictive Processing of Gender Agreement</title>
-      <link>/project/predictive-processing-of-gender/</link>
+      <link>https://juanjgarridop.github.io/project/predictive-processing-of-gender/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/predictive-processing-of-gender/</guid>
+      <guid>https://juanjgarridop.github.io/project/predictive-processing-of-gender/</guid>
       <description>Predictive Processing of Gender Agreement</description>
     </item>
     

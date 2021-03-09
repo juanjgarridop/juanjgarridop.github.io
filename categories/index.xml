@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Juan José Garrido</title>
-    <link>/categories/</link>
+    <link>https://juanjgarridop.github.io/categories/</link>
     <description>Recent content in Categories on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2019</copyright>
+    <copyright>2021</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://juanjgarridop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Juan José Garrido</title>
-    <link>/authors/admin/</link>
+    <link>https://juanjgarridop.github.io/authors/admin/</link>
     <description>Recent content in admin on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2019</copyright>
+    <copyright>2021</copyright>
     
-	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://juanjgarridop.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/admin/</link>
+      <link>https://juanjgarridop.github.io/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/admin/</guid>
+      <guid>https://juanjgarridop.github.io/author/admin/</guid>
       <description>Juan José is from Lima, Peru. He is a third-year PhD student in Bilingualism and Second Language Acquisition at Rutgers University. He holds a bachelor’s degree in Education with a concentration in English Language Teaching from Universidad Nacional Federico Villarreal (Lima, Peru). He obtained a master’s degree in Spanish from Auburn University. His ample experience teaching both English and Spanish as a second language inspired his interest in how L2 learners and bilinguals process, perceive, and acquire language.</description>
     </item>
     
