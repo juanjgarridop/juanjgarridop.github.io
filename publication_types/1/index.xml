@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Juan José Garrido</title>
-    <link>/publication_types/1/</link>
+    <link>https://juanjgarridop.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2019</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0400</lastBuildDate>
+    <copyright>2021</copyright>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://juanjgarridop.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>L2 speech segmentation for word recognition: The role of lexical stress and syllable structure</title>
+      <link>https://juanjgarridop.github.io/publication/word-spotting/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://juanjgarridop.github.io/publication/word-spotting/</guid>
       <description></description>
     </item>
     
