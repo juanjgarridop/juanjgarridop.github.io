@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021</copyright>
-    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://juanjgarridop.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Durand-López, E.M.</title>
+      <link>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and **Garrido-Pozú, J.J.**</title>
+      <link>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>**Garrido-Pozú, J.J.**</title>
       <link>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</guid>
       <description></description>
@@ -63,24 +81,6 @@
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://juanjgarridop.github.io/authors/and-et-al./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Garrido-Pozú, Juan J.**</title>
-      <link>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-juan-j./</link>
-      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-juan-j./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Durand López, E.M.</title>
-      <link>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</guid>
       <description></description>
     </item>
     
