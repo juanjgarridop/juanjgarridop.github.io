@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Garrido-Pozú, Juan J.** on Juan José Garrido</title>
+    <link>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-juan-j./</link>
+    <description>Recent content in **Garrido-Pozú, Juan J.** on Juan José Garrido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021</copyright>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-juan-j./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>L2 speech segmentation for word recognition: The role of lexical stress and syllable structure</title>
+      <link>https://juanjgarridop.github.io/publication/word-spotting/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/publication/word-spotting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive processing of grammatical gender: Using gender cues to facilitate processing in Spanish</title>
+      <link>https://juanjgarridop.github.io/publication/predictive-processing/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/publication/predictive-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
