@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Juan José Garrido</title>
@@ -7,128 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021</copyright>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://juanjgarridop.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Durand-López, E.M.</title>
-      <link>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>and **Garrido-Pozú, J.J.**</title>
-      <link>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Garrido-Pozú, J.J.**</title>
-      <link>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Casillas, J.V.</title>
-      <link>https://juanjgarridop.github.io/authors/casillas-j.v./</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/casillas-j.v./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fernández Arroyo, L.</title>
-      <link>https://juanjgarridop.github.io/authors/fern%C3%A1ndez-arroyo-l./</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/fern%C3%A1ndez-arroyo-l./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parrish, K.</title>
-      <link>https://juanjgarridop.github.io/authors/parrish-k./</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/parrish-k./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rodríguez, N.</title>
-      <link>https://juanjgarridop.github.io/authors/rodr%C3%ADguez-n./</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/rodr%C3%ADguez-n./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>and et al.</title>
-      <link>https://juanjgarridop.github.io/authors/and-et-al./</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/and-et-al./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lozano-Argüelles, C.</title>
-      <link>https://juanjgarridop.github.io/authors/lozano-arg%C3%BCelles-c./</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/lozano-arg%C3%BCelles-c./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markovits Rojas, J.</title>
-      <link>https://juanjgarridop.github.io/authors/markovits-rojas-j./</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/markovits-rojas-j./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rocafiguera, N.</title>
-      <link>https://juanjgarridop.github.io/authors/rocafiguera-n./</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/rocafiguera-n./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Varela, J.</title>
-      <link>https://juanjgarridop.github.io/authors/varela-j./</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/varela-j./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>and Casillas, J.</title>
-      <link>https://juanjgarridop.github.io/authors/and-casillas-j./</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/authors/and-casillas-j./</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juanjgarridop.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juan Garrido</title>
       <link>https://juanjgarridop.github.io/authors/juan-garrido/</link>
@@ -148,11 +27,128 @@
     </item>
     
     <item>
+      <title>**Garrido Pozú, J.J.**</title>
+      <link>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>admin</title>
       <link>https://juanjgarridop.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://juanjgarridop.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and **Garrido-Pozú, J.J.**</title>
+      <link>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Casillas, J.</title>
+      <link>https://juanjgarridop.github.io/authors/and-casillas-j./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/and-casillas-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and et al.</title>
+      <link>https://juanjgarridop.github.io/authors/and-et-al./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/and-et-al./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casillas, J.V.</title>
+      <link>https://juanjgarridop.github.io/authors/casillas-j.v./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/casillas-j.v./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Durand López, E.M.</title>
+      <link>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernández Arroyo, L.</title>
+      <link>https://juanjgarridop.github.io/authors/fern%C3%A1ndez-arroyo-l./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/fern%C3%A1ndez-arroyo-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lozano-Argüelles, C.</title>
+      <link>https://juanjgarridop.github.io/authors/lozano-arg%C3%BCelles-c./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/lozano-arg%C3%BCelles-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markovits Rojas, J.</title>
+      <link>https://juanjgarridop.github.io/authors/markovits-rojas-j./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/markovits-rojas-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parrish, K.</title>
+      <link>https://juanjgarridop.github.io/authors/parrish-k./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/parrish-k./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rocafiguera, N.</title>
+      <link>https://juanjgarridop.github.io/authors/rocafiguera-n./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/rocafiguera-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodríguez, N.</title>
+      <link>https://juanjgarridop.github.io/authors/rodr%C3%ADguez-n./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/rodr%C3%ADguez-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varela, J.</title>
+      <link>https://juanjgarridop.github.io/authors/varela-j./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanjgarridop.github.io/authors/varela-j./</guid>
       <description></description>
     </item>
     

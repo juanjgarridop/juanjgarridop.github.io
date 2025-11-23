@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Varela, J. on Juan José Garrido</title>
@@ -6,12 +6,7 @@
     <description>Recent content in Varela, J. on Juan José Garrido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2021</copyright>
-    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://juanjgarridop.github.io/authors/varela-j./index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>2021</copyright><atom:link href="https://juanjgarridop.github.io/authors/varela-j./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conceptually-cued perceptual categorization in adult L2 learners</title>
       <link>https://juanjgarridop.github.io/publication/double-phonemic-boundary/</link>
