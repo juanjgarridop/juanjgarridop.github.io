@@ -1,108 +1,204 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://juanjgarridop.github.io/publication_types/2/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/durand-l%C3%B3pez-e.m./</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/durand_garrido_2024/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication_types/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/authors/and-garrido-poz%C3%BA-j.j./</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/garrido-poz%C3%BA-j.j./</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/garrido-pozu_2024b/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/garrido-pozu_2024a/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/authors/and-et-al./</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/casillas-j.v./</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/fern%C3%A1ndez-arroyo-l./</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/parrish-k./</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/rodr%C3%ADguez-n./</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/empathy-and-intonation/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/authors/and-et-al./</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication_types/1/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/word-spotting/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/predictive-processing/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/authors/and-casillas-j./</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/publication/double-phonemic-boundary/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/lozano-arg%C3%BCelles-c./</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/markovits-rojas-j./</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/rocafiguera-n./</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/varela-j./</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/authors/and-casillas-j./</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/juan-garrido/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/talk/example/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/talk/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/talk/cognates/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://juanjgarridop.github.io/authors/gilda-socarras/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/author/admin/</loc>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/authors/admin/</loc>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/author/</loc>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/categories/</loc>
-  </url><url>
-    <loc>https://juanjgarridop.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juanjgarridop.github.io/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
