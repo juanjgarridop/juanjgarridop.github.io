@@ -1,33 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Juan José Garrido</title>
+    <title>Projects on Juan Garrido, Ph.D.</title>
     <link>https://juanjgarridop.github.io/project/</link>
-    <description>Recent content in Projects on Juan José Garrido</description>
+    <description>Recent content in Projects on Juan Garrido, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2021</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://juanjgarridop.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>2025</copyright><atom:link href="https://juanjgarridop.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aural Comprehension of Cognates:The role of phonological factors</title>
-      <link>https://juanjgarridop.github.io/project/cognates/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <title></title>
+      <link>https://juanjgarridop.github.io/project/vot_study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juanjgarridop.github.io/project/cognates/</guid>
-      <description>Aural Comprehension of Cognates:The role of phonological factors</description>
-    </item>
-    
-    <item>
-      <title>Predictive Processing of Gender Agreement</title>
-      <link>https://juanjgarridop.github.io/project/predictive-processing-of-gender/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://juanjgarridop.github.io/project/predictive-processing-of-gender/</guid>
-      <description>Predictive Processing of Gender Agreement</description>
+      <guid>https://juanjgarridop.github.io/project/vot_study/</guid>
+      <description>Managing Cross-Language Interference: Phonetic instruction and cognate status in VOT Adjustment in L2 Spanish Overview
+This project investigates whether explicit phonetic instruction in a college-level Spanish Phonetics and Phonology course facilitates the acquisition of native-like VOT patterns in L2 Spanish among English-speaking learners. Additionally, it examines whether lexical properties, specifically cognate status, modulate learners’ phonetic performance, given that words with high cross-linguistic overlap are known to elicit greater interference.
+Goals</description>
     </item>
     
   </channel>
