@@ -688,6 +688,17 @@ At Furman University, I direct the Linguistics Lab (<a href="/lab/">The Ling Lab
     
     
     <script src="/js/academic.min.53772b0c58c1285697784d5d9dd362b0.js"></script>
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const links = document.querySelectorAll('a[href^="http"]');
+  links.forEach(link => {
+    if (!link.href.includes(window.location.hostname)) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+});
+</script>
 
   </body>
 </html>
